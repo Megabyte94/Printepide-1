@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "asistencia-por-huella-dactilar",
+  "private_key_id": "619562720ff1b4b3af841caae8e8940a3dccba38",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDkmZGgu9LsMows\noc6+1px59oKMuXz6lyd3MA2L++ANaD5EGLH/D+JLz7nHwn66jzRjgxAC3dXTZvkJ\nOWwEaMeWoE9txR8LNhgKUk+xcmG7D5FNjrQax2Hc5Tf885N0KhmFiT5aLwrBfb7m\nLiusqNXg5xYybRZ6gj8aUkl4UchMNc1wqyrThpSk+HJ5VJj9K+JQEEYxco3a887U\num/i5RE/cSmgTqrVyR4feMfrQpe/kjLUi7T1P2sHV6T8bzKlWTLMyApXM/dZsqJD\na12U++LwyMdMkeKffbl/x/NmVq3EPHW0ByWCr/7xdkL3w6hVetMKNDhhbruzyoDU\nqDEN3GRDAgMBAAECggEADHjCZLIKml9RnXfAd1HvHIpR6gqOon9PpGWHP61gtmqL\nBx0PzPoZXwh4usjGMDhy48D5RSbELTHvgUzUM1NiHDonyzXXcT2kxx9hgK1cXp/F\nTiVsdw+Mq8gHq3HAiDRpywrHT5VEcXUCTr2THWrirE//OoYQFWP4vF9j6cAQfPPS\nERO9MEUSeIKa/PRr5y3PiaKp+E3YrkCdUJTilyK+vBrGn6fkv32aFu57XR8nPcBJ\narQIK0JdQ8I7YsWRy8Q07paimTRmVooIRzs8Lu0IM5D/kPC9YVpWftd9dFeITiPc\n2N8xZEYaOpkGqjCZJ7B8hp7EKcC6wS7edHYCEIqyAQKBgQD+U2CgGcPvYBKNrgXv\n21c8bOsmYYNBgMWdk9tE1bYigt1JOnJ8j63W5ez8D/B0SKbMQ7ZkFVPcww3hKQSM\nwigWZAiUW9ARGjN6rZ/v7i1hhOwZRkJswHnPeObDtvdAZU9ZHXI/S6VPbVabF9Ob\nLt99Pcodvh5xvCP5+EvM/7faQwKBgQDmGtW+9L0dg0E3s2Zess1UVzEJsM14F4BP\nmNoShw44rDd2ZsD68jQ5ebqZuv4zAhrSkpdSJIJN7UKzwHI7ijHiZLKhofbHyYwy\n186xMXEGVjBwvablF7ShO/iKvALEtV6GQCjWpQ2VzEbNIFJUzNkb8Hqopua3cpN4\nxKDxx9muAQKBgQCepAOx2mCOAK+SEOtDIt7XollMJ6doRJsAICq2VVi3TkoaU4r2\nh+k4E1QwJwEmh+sDn3k2FNeq7UDLInrkEnhO/zca0+qFwII8E/GgCEHmgrODUIA+\nthFFiXTowEiaspc8T1HkiZskYF+VftdQBX0C8ngQ9XaoG2OVmXwu85QLYQKBgQCD\ncLjAR5TvktZiNvw3A/P+RYAhhPkZrHMDBNEs3DDndpiH7dI2hrwGSN6qigJCqOUh\ne9MsfOZiFTGQ9FFMaXhtVhAj/By3qw2GzXeoCBIECJ/LBsqa+puXrmYe+Z6rNt8z\n2Np7IfVMqE+ZROlCv3EVYJzwUcZg6/YJemhlND/IAQKBgQCv8o3KRdCHP3bk4h6m\niLNA2jaNz03vKtIq1pjU7xE4enSi3rPnMMkZNqqL+Du1Xudvzy+Zc7eaxHgyY0X6\nKeHzJzNpMmgio4U/UxlEeU3MUCoTiPgvKs3WnNm2Z/vBzo0cv+Ov9zjTyo//Xtsh\nfasx5yQ4qheSjaOTgNP03suYIQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-bjbh9@asistencia-por-huella-dactilar.iam.gserviceaccount.com",
+  "client_id": "102851197568376824825",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-bjbh9%40asistencia-por-huella-dactilar.iam.gserviceaccount.com"
+}
